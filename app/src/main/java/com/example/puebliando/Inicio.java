@@ -4,30 +4,30 @@ import java.io.Serializable;
 
 public class Inicio implements Serializable {
 
-    String titulo;
-    int foto;
+    String titulo, foto;
 
-    public Inicio(String titulo, int foto) {
+    public Inicio(String titulo, String foto) {
         this.titulo = titulo;
         this.foto = foto;
     }
 
-    public String getLugaresTuristicos() {
+    public String getTitulo() {
         return titulo;
     }
 
-    public void setLugaresTuristicos(String lugaresTuristicos) {
-        this.titulo = lugaresTuristicos;
+    public void setTitulo(String titulo) {
+        this.titulo = titulo;
     }
 
-    public int getFotoTurismo() {
+    public String getFoto() {
         return foto;
     }
 
-    public void setFotoTurismo(int fotoTurismo) {
-        this.foto = fotoTurismo;
+    public void setFoto(String foto) {
+        this.foto = foto;
     }
 }
+
 
 
 

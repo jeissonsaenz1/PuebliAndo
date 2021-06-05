@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PuebliAndo</string>
+    <string name="parque">Park surrounded by green areas, gardens and trees. It has four entrances made of granite in the shape of peaks, tiled floors, a bust of Rafael Uribe Uribe, wooden chairs, a large fountain and a trunk of a ceiba tree, a tree that constituted the "typical representation of the Valparaiseños", but which it was cut after being burned by lightning. The Park also has a Municipal Kiosk where there is an ice cream parlor and a cafeteria.</string>
+    <string name="lugaresTuristicos">Tourist places</string>
+    <string name="parquePrincipal">Principal Park</string>
+    <string name="opcion1">About</string>
+    <string name="opcion2">English</string>
+    <string name="opcion3">Spanish</string>
+    <string name="opcion4">to register</string>
+    <string name="nombrePerfil">Jeisson Dvid Betancur Saenz</string>
+    <string name="descripcionPefil">Tengo 25 años, soy una persona muy responsable, apasionado por el Fútbol y la tecnología, soy un poco introvertido y serio, sin embargo me considero un hombre noble y empático y sobre todo muy familiar. No soy una persona rumbera, prefiero viajar, salir a comer, e ir al cine. Mis programas televisivos favoritos son los documentales enfocados en historia y animales, aunque también me gusta la temática paranormal. En cuanto a la música escucho de todo un poco, aunque tengo preferencias por el rock clásico tanto en inglés como en español. Soy estudiante de Tecnología en desarrollo de Software y trabajo en una compañía que confecciona ropa deportiva me desempeño como asistente de costos.</string>
+    <string name="vermas">See+</string>
+</resources>
